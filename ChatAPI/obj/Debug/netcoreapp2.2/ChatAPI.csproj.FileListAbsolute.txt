@@ -1,0 +1,14 @@
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.csprojAssemblyReference.cache
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.csproj.CoreCompileInputs.cache
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.RazorAssemblyInfo.cache
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.RazorAssemblyInfo.cs
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.AssemblyInfoInputs.cache
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.AssemblyInfo.cs
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/bin/Debug/netcoreapp2.2/ChatAPI.deps.json
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/bin/Debug/netcoreapp2.2/ChatAPI.runtimeconfig.json
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/bin/Debug/netcoreapp2.2/ChatAPI.runtimeconfig.dev.json
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/bin/Debug/netcoreapp2.2/ChatAPI.dll
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/bin/Debug/netcoreapp2.2/ChatAPI.pdb
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.RazorTargetAssemblyInfo.cache
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.dll
+/Users/younes/Desktop/Projects/ChatApp/ChatAPI/obj/Debug/netcoreapp2.2/ChatAPI.pdb
